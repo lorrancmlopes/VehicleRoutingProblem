@@ -1,0 +1,6 @@
+hwloc/linux: Ignoring PCI device with non-16bit domain.
+Pass --enable-32bits-pci-domain to configure to support such devices
+(warning: it would break the library ABI, don't enable unless really needed).
+Menor custo encontrado: 741
+Rota de menor custo: 0 9 0 5 0 1 0 2 0 3 0 4 0 6 7 10 0 8 0 
+Tempo total de execução: 3942 ms.
